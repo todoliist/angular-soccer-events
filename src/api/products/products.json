@@ -1,0 +1,122 @@
+[
+  {
+    "productId": 1,
+    "productName": "Nike Men's CR7 Mercurial Superfly VI Elite Soccer Cleats - Red",
+    "productCode": "C-0011",
+    "releaseDate": "March 19, 2016",
+    "description": "The Flyknit upper of CR7 Superfly 360 Elite FG Men's Firm-Ground Football Boot wraps underneath your foot for an all-enveloping, second-skin-like fit with Ronaldo-inspired design. A 2-part podular plate system flexes for propulsive speed at every step.",
+    "price": 313.97,
+    "starRating": 3.4,
+    "imageUrl": "https://fgl.scene7.com/is/image/FGLSportsLtd/FGL_332618180_60_a?wid=288&hei=288&op_sharpen=1&resMode=sharp2"
+  },
+  {
+    "productId": 2,
+    "productName": "Nike Unisex Mercurial Vapor 12 Elite FG Soccer Cleats - Black/Gold",
+    "productCode": "C-0023",
+    "releaseDate": "April 18, 2017",
+    "description": "The Flyknit upper of Nike Vapor 12 Elite (FG) Firm-Ground Football Boot wraps underneath your foot for an all-enveloping, second-skin-like fit straight out of the box. The 2-part podular plate system utilizes a lightweight internal chassis that flexes for speed at every step.",
+    "price": 324.99,
+    "starRating": 4.2,
+    "imageUrl": "https://fgl.scene7.com/is/image/FGLSportsLtd/FGL_332694649_01_b?hei=250&wid=250&resMode=sharp2&op_sharpen=1"
+  },
+  {
+    "productId": 3,
+    "productName": "Nike Men's Tiempo Legend 7 Elite FG Soccer Cleats - Black/Gold",
+    "productCode": "C-0048",
+    "releaseDate": "September 21, 2018",
+    "description": "Men’s Nike Legend 7 Elite (FG) Firm-Ground Football Boot elevates a classic by adding a new ultra-soft leather and, for the first time in Tiempo history, a Flyknit constructed heel and midfoot with Flywire cables. It’s legendary fit, touch and traction—evolved.",
+    "price": 299.99,
+    "starRating": 4.8,
+    "imageUrl": "https://fgl.scene7.com/is/image/FGLSportsLtd/FGL_332677966_01_a?wid=288&hei=288&op_sharpen=1&resMode=sharp2&qlt=85,1"
+  },
+  {
+    "productId": 4,
+    "productName": "Manchester United 2018/19 adidas Men's Home Jersey",
+    "productCode": "T-0022",
+    "releaseDate": "May 15, 2018",
+    "description": "Made For Supporters, This Jersey Keeps You Comfortable While You Roar On Manchester United. Celebrating The Club’s 140Th Anniversary, It Features A Bold Design That Draws On Its Railway Roots For Inspiration. Built With Silky Fabric That Channels Moisture Away From Your Skin, It Has A Slightly Looser Fit Than The Shirts Worn On The Old Trafford Pitch.",
+    "price": 109.99,
+    "starRating": 3.7,
+    "imageUrl": "https://fgl.scene7.com/is/image/FGLSportsLtd/FGL_332548931_60_a-Manchester-United-adidas-Mens-Jersey-Home-CG0040?wid=288&hei=288&op_sharpen=1&resMode=sharp2&qlt=85,1"
+  },
+  {
+    "productId": 5,
+    "productName": "PSG 2018/19 Nike Men's Breathe Home Stadium Jersey",
+    "productCode": "T-0042",
+    "releaseDate": "October 15, 2018",
+    "description": "The Nike Breathe Paris Saint-Germain Home Stadium Men’s Short-Sleeve Jersey brings team pride details, such as a woven crest, together with performance elements like highly breathable fabric to help you stay dry and cool.",
+    "price": 110.00,
+    "starRating": 4.6,
+    "imageUrl": "https://fgl.scene7.com/is/image/FGLSportsLtd/FGL_332515214_41_a-PSG-2018-19-Nike-Home-Jersey-894432-411?wid=288&hei=288&op_sharpen=1&resMode=sharp2&qlt=85,1"
+  },
+
+  {"productId": 6,
+    "productName": "Juventus FC 2018/19 adidas Men's Home Jersey",
+    "productCode": "T-0011",
+    "releaseDate": "March 29, 2018",
+    "description": "Made For Fans, This Jersey Keeps You Comfortable While You Roar On Juventus. It Fields A Bold, Broad Interpretation Of The Famous Black-And-White Stripes That Have Been Striking Fear Into Opponents For Over A Century. Built With Silky Fabric That Channels Moisture Away From Your Skin, It Has A Slightly Looser Fit Than The Shirts Worn On The Juventus Stadium Pitch.",
+    "price": 109.99,
+    "starRating": 3.9,
+    "imageUrl": "https://fgl.scene7.com/is/image/FGLSportsLtd/FGL_332548915_01_a-Juventus-adidas-Mens-Jersey-Home-CF3489?wid=288&hei=288&op_sharpen=1&resMode=sharp2&qlt=85,1"
+  },
+  {
+    "productId": 7,
+    "productName": "adidas Messi Q3 Size 5 Soccer Ball - Solar Green/Black",
+    "productCode": "S-0023",
+    "releaseDate": "January 18, 2019",
+    "description": "Taking inspiration from adidas' Messi footwear range, this adidas Messi Q3 soccer ball is sure to stand out on the pitch. Its hard-wearing TPU cover is machine stitched for durability. A butyl bladder ensures it stays inflated for game after game.",
+    "price": 29.99,
+    "starRating": 4.8,
+    "imageUrl": "https://fgl.scene7.com/is/image/FGLSportsLtd/FGL_332562741_33_a?wid=288&hei=288&op_sharpen=1&resMode=sharp2&qlt=85,1"
+  },
+  {
+    "productId": 8,
+    "productName": "adidas Finale 18 Competition Soccer Ball - White/Football Blue",
+    "productCode": "S-0048",
+    "releaseDate": "July 20, 2018",
+    "description": "A replica of this season's UEFA Champions League match ball, this high-quality adidas soccer ball displays a version of its famous star panel design. Its thermally bonded seamless surface incorporates a premium, leather effect that has a soft feel. A rubber bladder offers a soft touch and response.",
+    "price": 74.99,
+    "starRating": 4.5,
+    "imageUrl": "https://fgl.scene7.com/is/image/FGLSportsLtd/FGL_332562802_10_a?wid=288&hei=288&op_sharpen=1&resMode=sharp2&qlt=85,1"
+  },
+  {
+    "productId": 9,
+    "productName": "adidas Champions League Finale M Official Match Ball Soccer Ball 5",
+    "productCode": "S-0042",
+    "releaseDate": "April 15, 2019",
+    "description": "Stars collide as the UEFA Champions League heats up. The vibrant, colourful design of the competition's official match ball is inspired by the venue in Madrid. Seamless and thermally bonded for increased accuracy, a true touch, and low water uptake, it has a textured surface that further optimizes performance. A FIFA stamp and red valve confirm its quality.",
+    "price": 204.99,
+    "starRating": 4.8,
+    "imageUrl": "https://fgl.scene7.com/is/image/FGLSportsLtd/FGL_332729846_99_a?wid=288&hei=288&op_sharpen=1&resMode=sharp2&qlt=85,1"
+  },
+  {
+    "productId": 10,
+    "productName": "Calgary Clash 8v8 Pre-Season Tournament",
+    "productCode": "E-0011",
+    "releaseDate": "June 29-30, 2019",
+    "description": "Program is ideal for players who are interested in improving their soccer skills through instense 8v8 competition.",
+    "price": 35,
+    "starRating": 4.5,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbwnE_Ice_qqrMIIAx3YL22bvC6ABlpfvWsnL_Nmyc3o0DEYEUbg"
+  },
+  {
+    "productId": 11,
+    "productName": "Tuscany Friendly Match",
+    "productCode": "E-0021",
+    "releaseDate": "July 27-28, 2019",
+    "description": "outdoor play, make friends through the game",
+    "price": 15,
+    "starRating": 3.5,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLeVEgb9LduEd9RH9unVG3YHbAIlMQ-0dgWPBPRQcPOus2tbxQNg"
+  },
+  {
+    "productId": 12,
+    "productName": "Caledonia Cup",
+    "productCode": "E-0023",
+    "releaseDate": "August 24-25, 2019",
+    "description": "Every team is guaranteed at least 4 games against top quality competition, all games this year will be played at the Clagary Tuscany community, inside the Soccer Dome on world class indoor turf.",
+    "price": 100,
+    "starRating": 4.0,
+    "imageUrl": "https://secure.registertournaments.com/uploads/23/content/images/cc3.png"
+  }
+]
